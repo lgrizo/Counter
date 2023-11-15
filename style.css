@@ -1,9 +1,8 @@
 body {
-    background: #3C7A89
+    background: #40434E
 }
 
 .container {
-    border: 1px solid black;
     width: 95%;
     height: 100vh;
     margin: auto;
@@ -13,18 +12,13 @@ body {
 }
 
 .counter {
-    border: 5px solid black;
     width: 600px;
     height: 350px;
     margin: auto;
     padding: 25px;
     text-align: center;
     background-color: #9FA2B2;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    border-radius: 30px;
 }
 
 .counter h1 {
